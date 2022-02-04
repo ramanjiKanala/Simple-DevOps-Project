@@ -1,4 +1,4 @@
-[root@ip-172-31-42-233 workspace]# history
+echo "[[root@ip-172-31-42-233 workspace]# history
     1  yum install -y java-1.8.0-openjdk-devel.x86_64
 
 
@@ -26,4 +26,4 @@
    16  cd workspace/
    17  ls
    18  history
-[root@ip-172-31-42-233 workspace]#
+[root@ip-172-31-42-233 workspace]]"
